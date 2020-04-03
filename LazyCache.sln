@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LazyCache.UnitTestsCore30",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LazyCache.UnitTestsCore31", "LazyCache.UnitTestsCore31\LazyCache.UnitTestsCore31.csproj", "{2E025606-884D-4C48-8490-99EB1EA7B268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyCache.UnitTestsAspNet", "LazyCache.UnitTestsAspNet\LazyCache.UnitTestsAspNet.csproj", "{4A9BC81C-E052-463B-BD5E-EFFE095EB9D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{2E025606-884D-4C48-8490-99EB1EA7B268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E025606-884D-4C48-8490-99EB1EA7B268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E025606-884D-4C48-8490-99EB1EA7B268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9BC81C-E052-463B-BD5E-EFFE095EB9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9BC81C-E052-463B-BD5E-EFFE095EB9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9BC81C-E052-463B-BD5E-EFFE095EB9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9BC81C-E052-463B-BD5E-EFFE095EB9D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
